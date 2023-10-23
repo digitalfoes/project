@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DigitalFoes - Cyber Freedom Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to DigitalFoes</h1>
+        <p>Your Gateway to Cyber Freedom</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#mission">Our Mission</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About DigitalFoes</h2>
+        <p>Welcome to DigitalFoes, your platform for advocating and promoting cyber freedom. We believe in an open and secure internet where privacy and digital rights are protected.</p>
+    </section>
+
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <p>Our mission is to raise awareness about digital threats, empower individuals with knowledge and tools to protect their online presence, and work towards a more secure and free digital world for all.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Online Privacy Workshops</li>
+            <li>Cybersecurity Resources</li>
+            <li>Digital Rights Advocacy</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or would like to get involved in the DigitalFoes project, please feel free to contact us at <a href="mailto:contact@digitalfoes.org">contact@digitalfoes.org</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 DigitalFoes - Cyber Freedom Project</p>
+    </footer>
+</body>
+</html>
